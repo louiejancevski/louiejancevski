@@ -1,5 +1,3 @@
-
-
 ## Technologies
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
@@ -11,5 +9,8 @@
 
 ## Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=louiejancevski&theme=github-compact" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=louiejancevski&theme=github-compact"
+    style="pointer-events: none;"
+  />
 </p>

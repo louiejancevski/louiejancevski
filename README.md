@@ -7,10 +7,4 @@
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
 
-## Activity
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=louiejancevski&theme=github-compact"
-    style="pointer-events: none;"
-  />
-</p>
+ 
